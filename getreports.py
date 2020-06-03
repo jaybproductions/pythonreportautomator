@@ -125,6 +125,3 @@ getreports()
 #copyCertainFiles(source_folder, dest_folder, string_to_match, file_type=".pdf")
 
 # uploadreports()
-
-# btwebgroup@gmail.com
-# wildcats
